@@ -7,7 +7,7 @@ So I decided it was high time that I work out some coding problems. And since I 
 
 **The languages that I'll be using:**
 
-I prefer to code in Python (and a bit of Java), so the solutions would be in one of the two languages. I might sprinkle some C/C++ if I'm feeling up to it (:
+I prefer to code in Python (and a bit of Java), so the solutions would be in one of the two languages. I might sprinkle some C/C++ or even JS if I'm feeling up to it (:
 
 The questions for the problems would be commented in the files. 
 
